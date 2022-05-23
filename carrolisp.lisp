@@ -1,3 +1,20 @@
+;; DADOS A SEREM INSERIDOS NO STDIN
+;;Wolksvagen
+;;Gol
+;;2000
+;;GA1228
+;;1
+;;Fiat
+;;Mobi
+;;2020
+;;ABC9999
+;;1
+;;Speed_Racer
+;;Mach_5
+;;1962
+;;SP33D
+;;1
+
 (defun carro (L)
     (loop
 
